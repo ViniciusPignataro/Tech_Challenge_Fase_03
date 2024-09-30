@@ -1,5 +1,5 @@
 # Banco de Dados Hospitalar a partir da pesquisa PNAD-COVID-19 (IBGE)
-*Pós Tech FIAP - Data Analytics - Tech Challenge 03
+*Pós Tech FIAP - Data Analytics - Tech Challenge 03*
 
 Grupo 42:
  - Vinicius Mathias Lacrimanti Pignataro
