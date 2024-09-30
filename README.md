@@ -24,7 +24,7 @@ Os dados da pesquisa podem ser obtidos diretamente no portal do IBGE, [clicando 
 **main/**
 
 - `Scripts`: Pasta contendo as consultas SQL e Databases .csv extraídas do banco de dados.
-- `TechChallenge_Apresentação`: PDF contendo a apresentação final da análise. 
+- `TechChallenge_Apresentação.pdf`: PDF contendo a apresentação final da análise. 
 - `Tech_Challenge_03.ipynb`: Notebook contendo a análise exploratória dos dados.
 - `Tech_Challenge_03.pbix`: Dashboard utilizado para uma melhor análise dos dados.
 - `requirements.txt`: Arquivo com todas as dependências necessárias para o projeto.
